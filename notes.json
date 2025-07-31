@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Shopping List",
+        "description": "A shopping list note"
+    },
+    {
+        "title": "Book List",
+        "description": "A book list note"
+    },
+    {
+        "title": "Cook List",
+        "description": "A cook list note"
+    }
+]
