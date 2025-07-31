@@ -10,5 +10,9 @@
     {
         "title": "Cook List",
         "description": "A cook list note"
+    },
+    {
+        "title": "Teste do Inquirer",
+        "description": "Um teste pra ver se o inquirer roda, e parece que sim"
     }
 ]
