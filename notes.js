@@ -77,7 +77,7 @@ const deleteNote = (title) => {
 
     if (notes.length > notesToKeep.length) {
 
-        console.log(chalk.green.inverse('Note removed!'));
+        console.log(chalk.green.inverse('Note deleted!'));
         saveNotes(notesToKeep);
 
     } else {
